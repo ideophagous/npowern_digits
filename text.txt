@@ -1,0 +1,5 @@
+Dear Madam or Sir,
+I'm in love with Python, and I'm seeking to improve myself as a Python developer. I have all the prerequisites in terms of conceptual knowledge, as well as practical skills and keen desire for new challenges, to join your company in a junior position.
+
+
+As a freelancer on Upwork, I have worked on web scraping with Python. One of my projects consisted in scraping emails from around 20000 YouTube channels, which was slightly tricky since it was not possible through the official YouTube API (it required the approval of the channel owner), and the website restricted access to the HTML code through traditional scraping methods (with urllib and request modules). I had to use a headless browser through Selenium to fulfill this job. Then I used the module BeautifulSoup for parsing the code and extracting the emails.
